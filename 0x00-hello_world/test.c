@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("Hello, Dear");
+	printf("#!/bin/bash");
 	return(0);
 }
